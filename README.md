@@ -8,6 +8,13 @@ Built and maintained in-house by 9Minecraft Studios.
 
 Loader: Fabric, NeoForge.
 
+## Versions
+
+| Minecraft | Loader |
+|---|---|
+| 26.2 | Fabric, NeoForge |
+| 26.1.2, 26.1.1, 26.1 | Fabric, NeoForge |
+
 ## Source
 
 If you want the port source — for review, for a fork, or to build it yourself — ask at **9minecraft.net@gmail.com**.
