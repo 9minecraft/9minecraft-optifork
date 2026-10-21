@@ -13,7 +13,7 @@ Loader: Fabric, NeoForge.
 | Minecraft | Loader |
 |---|---|
 | 26.2 | Fabric, NeoForge |
-| 26.1.2, 26.1.1, 26.1 | Fabric, NeoForge |
+| 26.1.2 | Fabric, Forge, NeoForge |
 
 ## Source
 
